@@ -6,7 +6,7 @@ In Object-Oriented Programming (OOP), a **class** is the fundamental building bl
 
 ## Java — Classes Are Mandatory
 
-Java is a purely object-oriented language, meaning **all code must live inside a class** — no exceptions. Even the simplest program requires one.
+Java is an object-oriented language, meaning **all code must live inside a class** — no exceptions. Even the simplest program requires one.
 
 ```java
 public class HelloWorld {
